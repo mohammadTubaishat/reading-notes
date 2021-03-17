@@ -1,13 +1,18 @@
-# reading-notes
+# read nots
 
-## explaingrowth mindset
+My name is mohammad Tubaishat
 
-**A growth mindsetgrowth mindset is when students understand that their abilities can be developed
+table
 
-**how to keep yourself in a growth mindset
+|Assignment               |   link                          |
+           
+|----------------         |---------------------------------|
 
-*Acknowledge and embrace imperfections. ...
-View challenges as opportunities. ...
-Try different learning tactics. ...*
+|  Read02a                | [Leaning markdown](Read02a.md)  |  
 
-![Growthmindset](https://www.infinitycs.org.au/wp-content/uploads/2019/06/Fixed-and-growth-mindset-infinity-860x550.jpg)
+                                                                                      
+|  Read02b                |  [Vrsion](Read02b.md)           |
+
+|  Read03                 |   [hTML](Read03.md)             |
+
+|                         |                                 |
